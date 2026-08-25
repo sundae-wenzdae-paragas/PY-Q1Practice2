@@ -12,8 +12,7 @@ f = {
     "name": "Raph",
     "age": 15,
     "description": "pogi"
-
-}
+} #dictionary
 
 display('The data type of x is ', type(x), target="div1") #display output in div
 display(type(y), target="div1") 
