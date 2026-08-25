@@ -8,7 +8,12 @@ b = ['Ako', 'Ay', 'May', 'Lobo'] #list
 c = (1,2,3) #tuple
 d = {1,2,3} #set with int
 e = {'emerald', 'ruby', 'sapphire'} #set with string
-f = 
+f = {
+    "name": "Raph",
+    "age": 15,
+    "description": "pogi"
+
+}
 
 display('The data type of x is ', type(x), target="div1") #display output in div
 display(type(y), target="div1") 
